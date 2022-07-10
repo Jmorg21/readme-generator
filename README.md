@@ -15,17 +15,7 @@
   Download node.js from their website, clone this repo, open a terminal and run npm install
   ## Usage
   In the terminal run node index.js, answer the questions, hitting enter to submit and move to next question.
-  ## Contributors
-  undefined
-  ## How to Contribute
-  undefined
-  Please see: [Contributor Covenant](https://www.contributor-covenant.org/)
   ## Instruction Video
   https://drive.google.com/file/d/11xCJ19imuOCnZOHWdOdoK7eCbsXycGBr/preview
-
-  ## Questions?
-  undefined
-  ## License
-  ## License
   
 * [License](#license)
