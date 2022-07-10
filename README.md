@@ -20,8 +20,9 @@
   ## How to Contribute
   undefined
   Please see: [Contributor Covenant](https://www.contributor-covenant.org/)
-  ## Tests
-  
+  ## Instruction Video
+  <iframe src="https://drive.google.com/file/d/11xCJ19imuOCnZOHWdOdoK7eCbsXycGBr/preview" width="640" height="480"></iframe>
+
   ## Questions?
   undefined
   ## License
